@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <!-- first question -->
+    <string name="first_question">1. Android includes:</string>
+    <!-- first question answer options (CheckBox)-->
+    <string name="first_question_option_one">a. Operating System</string>
+    <string name="first_question_option_two">b. Middleware</string>
+    <string name="first_question_option_three">c. Websites</string>
+    <string name="first_question_option_four">d. Some key applications</string>
+
+    <!-- second question -->
+    <string name="second_question">2. Android application architecture has the following components:</string>
+    <!-- second question answer options (Radio button)-->
+    <string name="second_question_option_one">a. Services − It will perform background functionalities</string>
+    <string name="second_question_option_two">b. Intent − It will perform the inter connection between activities and the data passing mechanism</string>
+    <string name="second_question_option_three">c. Resource Externalization − strings and graphics</string>
+    <string name="second_question_option_four">d. Notification − light,sound,icon,notification,dialog box,and toast</string>
+    <string name="second_question_option_five">e. Content Providers − It will share the data between applications</string>
+    <string name="second_question_option_six">f. All the above is correct</string>
+
+    <!-- third question -->
+    <string name="third_question">3. An activity performs actions on the screen.If you want to do any operations, we can do with activity.</string>
+    <!-- third question answer options (Radio button)-->
+    <string name="third_question_option_one">a. True</string>
+    <string name="third_question_option_two">b. False</string>
+
+    <!-- fourth question -->
+    <string name="fourth_question">4. What does ADT stand for?</string>
+    <!-- fourth question answer options (Free text response)-->
+    <string name="fourth_question_answer">Android development tool</string>
+    <!-- fourth question answer hint text -->
+    <string name="fourth_question_answer_hint">Enter your answer here...</string>
+
+    <!-- fifth question -->
+    <string name="fifth_question">5. ADB in Android acts as bridge between emulator and IDE, it executes remote shell commands to run applications on an emulator.</string>
+    <!-- third question answer options (Radio button)-->
+    <string name="fifth_question_option_one">a. True</string>
+    <string name="fifth_question_option_two">b. False</string>
+
+    <!-- 6th question -->
+    <string name="six_question">6. A View group is not a collection of views and other child views, it is an invisible part and the base class for layouts.</string>
+    <!-- third question answer options (Radio button)-->
+    <string name="six_question_option_one">a. True</string>
+    <string name="six_question_option_two">b. False</string>
+
+    <!-- 7th question -->
+    <string name="seven_question">7. A content provider component supplies data from one application to others on request.</string>
+    <!-- third question answer options (Radio button)-->
+    <string name="seven_question_option_one">a. True</string>
+    <string name="seven_question_option_two">b. False</string>
+
+    <!-- Submit Button -->
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Retake Button -->
+    <string name="retake_button_text">Retake Quiz</string>
+</resources>
